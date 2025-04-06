@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas T H M</h1>
-<h3 align="center">Sophmore @Dayananda sagar college of Engineerinng, enthusiastic developer from India</h3>
+<h3 align="center">Pre-final year student @Dayananda sagar college of Engineerinng, enthusiastic developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thmshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="thmshreyas" /> </p>
 
-- 🔭 I’m currently working on **DBMS project - Criminal record management system**
+- 🔭 I’m currently working on **ORBIS-Devops automation tool**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Devops and Machine learning**
 
 - 👯 I’m looking to collaborate on **web development projects and software development projects**
 
