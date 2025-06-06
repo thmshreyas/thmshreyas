@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thmshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="thmshreyas" /> </p>
 
-- 🔭 I’m currently working on **ORBIS-Devops automation tool**
+- 🔭 I’m currently working on **Prescripto project**
 
 - 🌱 I’m currently learning **Devops and Machine learning**
 
