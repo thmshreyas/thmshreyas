@@ -24,7 +24,7 @@
   <a href="https://twitter.com/your_twitter_username" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/your_stackoverflow_id](https://stackexchange.com/users/39388371/shreyas-t-h-m" target="blank">
+  <a href="[https://stackoverflow.com/users/your_stackoverflow_id](https://stackexchange.com/users/39388371/shreyas-t-h-m)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://developers.google.com/profile/your_google_profile" target="blank">
